@@ -17,7 +17,8 @@ Deep Reinforcement Learning-based Inventory Optimization
 
 # Meta_RL
 *Microsoft Visual C++ 14.0 or greater is required
-* Write Under Codes
+* Write Under Codes in git bash
+
   git clone https://github.com/learnables/learn2learn.git
   
   cd learn2learn
