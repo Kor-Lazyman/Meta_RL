@@ -19,5 +19,7 @@ Deep Reinforcement Learning-based Inventory Optimization
 *Microsoft Visual C++ 14.0 or greater is required
 * Write Under Codes
   git clone https://github.com/learnables/learn2learn.git
+  
   cd learn2learn
+
   pip install -e .
